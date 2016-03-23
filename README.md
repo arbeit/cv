@@ -14,6 +14,9 @@ systems. Passionate about delivering clean, elegant and correct code.
    Here's an [example](https://github.com/arbeit/mmt)
  * ocaml: solid knowledge and [some code experiments](https://github.com/freizeit/exercises/tree/master/cj-a-store-credit/ocaml)
 
+## Remote work
+I have worked remotely and/or with remote teams for 5+ years. This is my preferred modus operandi.
+
 ## Operating systems
 Various linuxes e.g. Ubuntu, Arch
 
@@ -25,7 +28,7 @@ Various linuxes e.g. Ubuntu, Arch
 
 ## Social
 ### Agile teams
-I have built and led a number of agile software development teams in the last couple of years
+I have built and led a number of agile and distributed software development teams in the last couple of years
 
 ### Community
  * I started and ran the [biggest IT meetup group in Zurich](http://www.meetup.com/zhgeeks/) for a number of years
