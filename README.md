@@ -17,6 +17,12 @@ systems. Passionate about delivering clean, elegant and correct code.
 ## Operating systems
 Various linuxes e.g. Ubuntu, Arch
 
+## Miscellaneous skills
+ * cloud computing: AWS and OpenStack. Here's an [AWS proof of concept](https://github.com/freizeit/auto-scaling-demo) I was asked to develop some time ago
+ * Postgres: have extensive hands-on experience with it. I was the "database guy" in more than one project :)
+ * RabbitMQ: used it quite a bit in the OpenQuake project, did most of the trouble-shooting and debugging on the distributed computation cluster.
+ * Packaging: did all the Ubuntu packaging for the OpenQuake project.
+
 ## Social
 ### Agile teams
 I have built and led a number of agile software development teams in the last couple of years
