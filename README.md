@@ -8,7 +8,7 @@ systems. Passionate about delivering clean, elegant and correct code.
 # My skills
 
 ## Programming languages
- * Python: 6+ years of experience, see the e.g. the [OpenQuake engine](https://github.com/gem/oq-engine) for some samples of my work
+ * Python: 6+ years of experience, see e.g. the [OpenQuake engine](https://github.com/gem/oq-engine) for some samples of my work
  * erlang: solid knowledge and [some code experiments](https://github.com/freizeit/exercises/tree/master/cj-a-store-credit/erlang)
  * elixir: solid knowledge, also wrote a couple of small tools using it.
    Here's an [example](https://github.com/arbeit/mmt)
