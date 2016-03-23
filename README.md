@@ -24,7 +24,7 @@ Various linuxes e.g. Ubuntu, Arch
  * Cloud computing: AWS and OpenStack. Here's an [AWS proof of concept](https://github.com/freizeit/auto-scaling-demo) I was asked to develop some time ago
  * Postgres: have extensive hands-on experience with it. I was the "database guy" in more than one project :)
  * RabbitMQ: used it quite a bit in the OpenQuake project, did most of the trouble-shooting and debugging on the distributed computation cluster.
- * Packaging: did all the Ubuntu packaging for the OpenQuake project.
+ * Automation & deployment: I know of tools like puppet, ansible etc. and have dabbled with them. Have also played with docker more recently.
 
 ## Social
 ### Agile teams
