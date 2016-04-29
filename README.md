@@ -3,9 +3,7 @@
 ![Muharem Hrnjadovic](images/picture.jpg)
 
 # About me
-Functional programming geek with 20+ years of software development experience
-and solid instincts in the areas of system architecture and distributed
-systems. Passionate about delivering clean, elegant and correct code.
+Functional programming geek with [20+ years of software development experience](https://ch.linkedin.com/in/mhrnjad) and solid instincts in the areas of system architecture and distributed systems. Passionate about delivering clean, elegant and correct code.
 
 # My skills
 
