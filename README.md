@@ -1,5 +1,7 @@
 # Muharem Hrnjadovic: curriculum vitae
 
+![Muharem Hrnjadovic](images/picture.jpg)
+
 # About me
 Functional programming geek with 20+ years of software development experience
 and solid instincts in the areas of system architecture and distributed
@@ -9,8 +11,8 @@ systems. Passionate about delivering clean, elegant and correct code.
 
 ## Programming languages
  * Python: 6+ years of experience, see e.g. the [OpenQuake engine](https://github.com/gem/oq-engine) for some samples of my work
- * erlang: solid knowledge and [some code experiments](https://github.com/freizeit/exercises/tree/master/cj-a-store-credit/erlang)
- * elixir: solid knowledge, also wrote a couple of small tools using it.
+ * [erlang](https://www.fastcompany.com/3026758/inside-erlang-the-rare-programming-language-behind-whatsapps-success): solid knowledge and [some code experiments](https://github.com/freizeit/exercises/tree/master/cj-a-store-credit/erlang)
+ * [elixir](https://pragprog.com/book/elixir/programming-elixir): solid knowledge, also wrote a couple of small tools using it.
    Here's an [example](https://github.com/arbeit/mmt)
  * ocaml: solid knowledge and [some code experiments](https://github.com/freizeit/exercises/tree/master/cj-a-store-credit/ocaml)
 
@@ -36,6 +38,6 @@ I have built and led a number of agile and distributed software development team
 
 # Opinions and prejudices
 
+ * the perfect is the enemy of the good
  * untested code is broken code
  * automate or die!
- * gvim all the way down :)
